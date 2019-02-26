@@ -1,0 +1,1 @@
+from . import proveedores, clientes, carnes, ventas
